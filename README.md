@@ -70,7 +70,7 @@ git clone https://github.com/akshatvar/Diamond_Price_Prediction
 2. Navigate to the project directory:
 
 ```
-cd Diamond-Price-Prediction-Project
+cd Diamond_Price_Prediction
 ```
 
 3. Install the required dependencies using pip:
