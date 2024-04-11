@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: DiamondPriceprediction
+Version: 0.0.1
+Author: Akshat Shukla
+Author-email: akshatshukla075@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: ipykernel
