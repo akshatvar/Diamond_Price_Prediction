@@ -64,7 +64,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone 
+git clone https://github.com/akshatvar/Diamond_Price_Prediction
 ```
 
 2. Navigate to the project directory:
